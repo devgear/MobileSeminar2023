@@ -1,0 +1,17 @@
+implementation
+
+{%CLASSGROUP 'FMX.Controls.TControl'}
+
+{$R *.dfm}
+
+procedure TDataModule1.FDConnection1BeforeConnect(Sender: TObject);
+begin
+  {$IFDEF MSWINDOWS}
+  FDConnection1.Params.Values[ 'Database' ] := ExtractFilePath(ParamStr(0)) + '..\..\stest.db';
+  {$ENDIF}
+
+  {$IF DEFINED(iOS) or DEFINED(ANDROID)}
+  FDConnection1.Params.Values[ 'Database' ] :=                                //  StartUp\Library
+           TPath.Combine( TPath.GetDocumentsPath(), 'stest.db');
+  {$ENDIF}                                                                    // .\assets\internal
+end;

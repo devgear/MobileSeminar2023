@@ -1,0 +1,55 @@
+object MForm: TMForm
+  Left = 0
+  Top = 0
+  Caption = 'MForm'
+  ClientHeight = 499
+  ClientWidth = 372
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnShow = FormShow
+  DesignerMasterStyle = 3
+  object Image1: TImage
+    MultiResBitmap = <
+      item
+      end>
+    Align = Client
+    MarginWrapMode = Fit
+    Size.Width = 372.000000000000000000
+    Size.Height = 449.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Layout1: TLayout
+    Align = Top
+    Size.Width = 372.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object BT_Next: TButton
+      Align = Right
+      Position.X = 264.000000000000000000
+      Size.Width = 108.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = '>>'
+      OnClick = BT_NextClick
+    end
+    object BT_Pre: TButton
+      Align = Left
+      Size.Width = 97.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = '<<'
+      OnClick = BT_PreClick
+    end
+    object Text_FName: TText
+      Align = Center
+      Size.Width = 128.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'FileName'
+    end
+  end
+end

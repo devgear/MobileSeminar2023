@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.210,D:\temp\DX11\Unit4.fmx=D:\5sh_Delphi\DX11\Android_Pemission\PMUnit.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.912,=D:\5sh_Delphi\DX11\Android_Permission\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.579,=D:\5sh_Delphi\DX11\Android_Permission\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.210,D:\temp\DX11\Unit4.pas=D:\5sh_Delphi\DX11\Android_Pemission\PMUnit.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.081,=D:\temp\DX11\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.567,D:\temp\DX11\Project4.dproj=D:\5sh_Delphi\DX11\Android_Pemission\AndroidPermission.dproj</Transaction>
+  </Transactions>
+	<BT_BuildType>AppStore</BT_BuildType>
+	<ActiveMobileDevice>
+		<NoProfile Android64="R5CT32K92FW" Android="R5CT32K92FW"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.232,=D:\temp\DX11\Unit12.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.544,D:\temp\DX11\Unit12.pas=D:\5sh_Delphi\Seminar2023\4.Mobile\FileDistribute\FMUnitpas.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.544,D:\temp\DX11\Unit12.fmx=D:\5sh_Delphi\Seminar2023\4.Mobile\FileDistribute\FMUnitpas.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.175,D:\temp\DX11\Project12.dproj=D:\5sh_Delphi\Seminar2023\4.Mobile\FileDistribute\FileDist.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.620,=D:\temp\DX11\Unit12.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.189,=D:\temp\DX11\Unit12.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="R5CT32K92FW" Android="R5CT32K92FW"/>
+	</ActiveMobileDevice>
+</BorlandProject>

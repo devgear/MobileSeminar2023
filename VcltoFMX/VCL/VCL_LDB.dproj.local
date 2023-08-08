@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.896,D:\temp\DX11\Unit4.pas=D:\5sh_자료\UI세미나\1.Unit분리\VCL\VCL_Main.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.376,=D:\temp\DX11\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.610,=D:\5sh_자료\UI세미나\1.Unit분리\DBModule.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.031,D:\5sh_자료\UI세미나\1.Unit분리\VCL\DB_VModule.dfm=D:\5sh_자료\UI세미나\1.Unit분리\VCL\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.313,=D:\temp\DX11\Unit5.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.767,=D:\5sh_자료\UI세미나\1.Unit분리\VCL\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.031,D:\5sh_자료\UI세미나\1.Unit분리\VCL\DB_VModule.pas=D:\5sh_자료\UI세미나\1.Unit분리\VCL\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.896,D:\temp\DX11\Unit4.dfm=D:\5sh_자료\UI세미나\1.Unit분리\VCL\VCL_Main.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.252,D:\temp\DX11\Project4.dproj=D:\5sh_자료\UI세미나\1.Unit분리\VCL\VCL_LDB.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.603,=D:\temp\DX11\Unit4.pas</Transaction>
+  </Transactions>
+</BorlandProject>

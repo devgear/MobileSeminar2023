@@ -1,0 +1,72 @@
+object MForm: TMForm
+  Left = 0
+  Top = 0
+  Caption = 'MForm'
+  ClientHeight = 586
+  ClientWidth = 391
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    TextSettings.WordWrap = True
+    Align = Bottom
+    Position.Y = 328.000000000000000000
+    Size.Width = 391.000000000000000000
+    Size.Height = 258.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Viewport.Width = 383.000000000000000000
+    Viewport.Height = 250.000000000000000000
+  end
+  object ListView1: TListView
+    ItemAppearanceClassName = 'TListItemRightDetailAppearance'
+    ItemEditAppearanceClassName = 'TListItemRightDetailShowCheckAppearance'
+    HeaderAppearanceClassName = 'TListHeaderObjects'
+    FooterAppearanceClassName = 'TListHeaderObjects'
+    Align = Client
+    Size.Width = 391.000000000000000000
+    Size.Height = 255.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    ItemAppearanceObjects.ItemObjects.Accessory.AccessoryType = Checkmark
+    ItemAppearanceObjects.ItemObjects.Accessory.Visible = False
+    SearchVisible = True
+  end
+  object Rectangle1: TRectangle
+    Align = Top
+    Size.Width = 391.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    object Label1: TLabel
+      Align = Center
+      Size.Width = 129.000000000000000000
+      Size.Height = 42.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.HorzAlign = Center
+      Text = 'SQLite Demo'
+      TabOrder = 0
+    end
+    object Button1: TButton
+      Align = Left
+      Size.Width = 88.000000000000000000
+      Size.Height = 73.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = 'Select'
+      OnClick = Button1Click
+    end
+    object Button2: TButton
+      Align = Right
+      Position.X = 311.000000000000000000
+      Size.Width = 80.000000000000000000
+      Size.Height = 73.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      Text = 'Button2'
+      OnClick = Button2Click
+    end
+  end
+end

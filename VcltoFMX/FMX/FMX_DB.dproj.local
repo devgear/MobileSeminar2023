@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.562,=D:\5sh_자료\UI세미나\1.Unit분리\DBModule.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.578,D:\5sh_자료\UI세미나\1.Unit분리\DBModule.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.107,=D:\5sh_자료\UI세미나\1.Unit분리\FMX\DBModule.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.130,D:\5sh_자료\UI세미나\1.Unit분리\FMX\DBModule.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.469,=D:\temp\DX11\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.967,=D:\5sh_자료\UI세미나\1.Unit분리\FMX\MLocalDB.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.534,=D:\5sh_자료\UI세미나\1.Unit분리\FMX\DB_VModule.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.145,D:\temp\DX11\Project4.dproj=D:\5sh_자료\UI세미나\1.Unit분리\FMX\FMX_DB.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.603,=D:\temp\DX11\Unit4.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="R5CT32K92FW" Android="R5CT32K92FW"/>
+	</ActiveMobileDevice>
+</BorlandProject>
